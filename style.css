@@ -1,3 +1,6 @@
 h1[
 head::marker:-webkit-full-screen;
 ]
+body[
+    ::backdrop
+]
