@@ -1,0 +1,1 @@
+alert("wellcom to my mode");
